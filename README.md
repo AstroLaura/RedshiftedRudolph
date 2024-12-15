@@ -1,2 +1,2 @@
 # RedshiftedRudolph
-Calculation of Father Christmas' speed on Christmas Eve.
+These are my calculations to model the approximate minimum speed Father Christmas and his reindeer would need to travel at to deliver all of the presents by Christmas morning.
